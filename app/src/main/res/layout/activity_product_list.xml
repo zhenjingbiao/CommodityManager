@@ -3,10 +3,11 @@
               android:orientation="vertical"
               android:layout_width="match_parent"
               android:layout_height="match_parent">
-    <android.support.v7.widget.SearchView
+    <SearchView
         android:id="@+id/product_search_view"
         android:layout_width="match_parent"
         android:layout_height="50dp"
+        android:focusable="auto"
         android:layout_marginBottom="10dp"/>
     <ListView
         android:id="@+id/product_lv"
