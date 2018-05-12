@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- 默认色值 -->
+    <color name="default_blue_color">#FF00ADEF</color>
+    <color name="default_orange_color">#FFFAA519</color>
+    <color name="default_photo_color">#E6E6E6</color>
+    <color name="line_verical">#C3C2C4</color>
+    <color name="black">#FF000000</color>
+    <color name="player_bar_black">#66000000</color>
+    <color name="seek_bar_black">#99000000</color>
+    <color name="player_set_content">#7F000000</color>
+    <color name="player_not_set_content">#44000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FFFF0000</color>
+    <color name="green">#FF008000</color>
+    <color name="yellow">#FFFFFF00</color>
+    <color name="saffron_yellow">#FF9900</color>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/product_iv"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@mipmap/ic_launcher"
+        android:scaleType="fitCenter"/>
+    <TextView
+        android:id="@+id/product_desc_tv"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="100dp"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:text="这是商品描述"
+        android:textSize="16sp"/>
+
+</LinearLayout>
